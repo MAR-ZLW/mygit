@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my test git first modify
+=======
+my test git last modify
+>>>>>>> ce63b028fcbd1fd47bf2afc3bd534747c32831db
